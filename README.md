@@ -60,13 +60,18 @@ Put values and click Predict & Save.
 
 Screenshots:
 DATA sets before cleaning
+
 <img width="309" height="252" alt="image" src="https://github.com/user-attachments/assets/0b773b7c-eda9-4a8a-ab04-57ba3250fd03" />
 
 DATA sets after cleaning:
+
 <img width="257" height="231" alt="image" src="https://github.com/user-attachments/assets/2cf51ae8-c090-4075-8416-a5784c56fb6d" />
+
  Confusion Matrix:
+ 
  <img width="299" height="235" alt="image" src="https://github.com/user-attachments/assets/302e246b-11aa-4c00-8fbd-04b3a6b49dd9" />
 ROC curve:
+
 <img width="331" height="163" alt="image" src="https://github.com/user-attachments/assets/12342aba-e4d4-4973-9c42-4761f180c344" />
 
 
