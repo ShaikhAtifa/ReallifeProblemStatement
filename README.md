@@ -76,7 +76,5 @@ Integrate PDF/CSV export of predictions
 
 Add support for re-training from GUI
 
-Improve class imbalance strategy
-
 Add logging and exception tracking
 
